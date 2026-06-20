@@ -1,16 +1,18 @@
-## Hi there 👋
+# Xizhe Huang
 
-<!--
-**xizhehuang00-crypto/xizhehuang00-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designer learning to build.
 
-Here are some ideas to get you started:
+Creature in Nature [feed] — exploring the space between technology and being human.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [xizhe-huang.vercel.app](https://xizhe-huang.vercel.app)
+
+---
+
+### Currently
+- Building my personal site with Next.js
+- Transitioning from architecture to design engineering
+- Learning React, CSS animation, motion design
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xizhehuang00-crypto&show_icons=true&theme=dark&hide_border=true&bg_color=000000)](https://github.com/xizhehuang00-crypto)
